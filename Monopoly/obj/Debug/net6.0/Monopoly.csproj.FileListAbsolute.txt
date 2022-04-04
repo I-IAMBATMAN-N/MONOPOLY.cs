@@ -1,0 +1,17 @@
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.exe
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.deps.json
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.runtimeconfig.json
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.dll
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\ref\Monopoly.dll
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.pdb
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\bin\Debug\net6.0\Figgle.dll
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CopyComplete
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.dll
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.pdb
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
+C:\Users\Jakub\source\repos\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.AssemblyReference.cache
